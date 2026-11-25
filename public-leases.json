@@ -3,7 +3,7 @@
   "updated": "2026-11-24",
   "leases": [
     {
-      "property": "315 Maffett Street", "unit": "R", "rent": 1300, "start": "2026-09-17", "end": "2027-10-31", "deposit": 1300,
+      "property": "315–319 Maffett Street", "unit": "315 R", "rent": 1300, "start": "2026-09-17", "end": "2027-10-31", "deposit": 1300,
       "due": "1st of the month", "lateFee": "$100 after 5 days", "paidBy": "Zelle",
       "terms": [
         ["Landlord", "Maffett St LLC"],
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "property": "315 Maffett Street", "unit": "F", "rent": 1275, "start": "2026-11-01", "end": "2027-10-31", "deposit": 2550,
+      "property": "315–319 Maffett Street", "unit": "315 F", "rent": 1275, "start": "2026-11-01", "end": "2027-10-31", "deposit": 2550,
       "due": "1st of the month", "lateFee": "$100 after 5 days", "paidBy": "Zelle",
       "terms": [
         ["Landlord", "Maffett St LLC"],
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "property": "317 Maffett Street", "unit": "", "rent": 1200, "start": "2026-09-01", "end": "2027-09-30", "deposit": 1200,
+      "property": "315–319 Maffett Street", "unit": "317", "rent": 1200, "start": "2026-09-01", "end": "2027-09-30", "deposit": 1200,
       "due": "1st of the month", "lateFee": "$100 after 5 days", "paidBy": "Zelle / Cash App",
       "terms": [
         ["Landlord", "Maffett St LLC"],
